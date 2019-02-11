@@ -20,8 +20,8 @@ app.layout = html.Div(children=[
             ],
             'layout': {
                 'title': "Its nice we have McDonalds",
-                'xaxis':{'title':'Choice of data visualization'},
-                'yaxis':{'title':'Approval rating by average data scientist'},
+                'xaxis':{'title':'the important taste factors'},
+                'yaxis':{'title':'What the common folk say'},
             }
         }
     )]
